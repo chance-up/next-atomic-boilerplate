@@ -1,0 +1,22 @@
+[
+  {
+    "thumbnail": "/static/images/swiper_test1.png",
+    "service_name": "service1",
+    "categories": ["category1"]
+  },
+  {
+    "thumbnail": "/static/images/swiper_test2.png",
+    "service_name": "service2",
+    "categories": ["category2"]
+  },
+  {
+    "thumbnail": "/static/images/swiper_test3.png",
+    "service_name": "service3",
+    "categories": ["category2"]
+  },
+  {
+    "thumbnail": "/static/images/swiper_test4.png",
+    "service_name": "service4",
+    "categories": ["category1"]
+  }
+]
